@@ -14,7 +14,7 @@ class HotelRoomCalc(object):
         return float(days) * daily
 
 
-sfo = HotelRoolCalc(229)
+sfo = HotelRoomCalc(229)
 print sfo.calcTotal(2)
 
 

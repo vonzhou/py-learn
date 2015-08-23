@@ -1,15 +1,15 @@
 
-Python lerarning road.
+# Python lerarning road.
 
-1.<A byte of python> book.
+### <A byte of python> book.
 
-2. Reading  "Let's Build A Web Server" articles and practice.
+###  Reading  "Let's Build A Web Server" articles and practice.
 http://ruslanspivak.com/lsbaws-part1/
 http://ruslanspivak.com/lsbaws-part2/
 http://ruslanspivak.com/lsbaws-part3/
 
 
-3.
+### 产生10000000行7位长的数字到文件，然后shuffle得到一个数据集，供排序使用 
 
 
 

@@ -6,4 +6,8 @@ while True:
 		print 'The loop is exited.'
 		break;
 	print 'The len of your input is: ',len(s)
+else:
+    print 'can you get here?'
+
+
 print 'Done'
